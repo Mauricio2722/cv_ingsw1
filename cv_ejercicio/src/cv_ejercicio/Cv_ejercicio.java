@@ -18,6 +18,7 @@ public class Cv_ejercicio {
         // TODO code application logic here
         System.out.println("Version 0");
         System.out.println("Version 1");
+        System.out.println("Mauricio Version");
     }
     
 }
